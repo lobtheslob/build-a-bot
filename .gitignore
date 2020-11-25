@@ -3,6 +3,9 @@ node_modules
 /dist
 
 
+#history files
+*.history*
+
 # local env files
 .env.local
 .env.*.local
